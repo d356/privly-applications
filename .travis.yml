@@ -22,6 +22,10 @@ env:
   - secure: XpyyEMPAvqtQIXap/dLAgl8JhAKfoSdsmoGY659eHZcijYv6d8pOX7JPUfwHhteoso/MkX9o+F8t7z7AIigNi0FJHQedP4cwhtbYEDFr8w4tRz9TYf7u4d/UUosVD4x95v9Yp+G84P/Rw6Vr90TgXExo4hVxJx2faNp9xkpMqE8=
   #SAUCE_ACCESS_KEY=********-****-****-****-************(irdan/privly-applications)
   - secure: gCbEFk/4uWMa41BFLLwHaoJebbZHpxIF6H2NCqiAYlVwAKB2Dzya9imwKzm6XUCXRyUakN8eaJBO9d9OQtRV+D2Uap7sUDGoAjeGgKQuGYpbSYgN8NQVAJdY+WeAeH4Ul4ExZOJKQH7AL6pFkCHn9m/RnXCosrOG+ob4fievJ8s=
+  #SAUCE_ACCESS_KEY
+  - secure: Ztj3ITd3LeUUQ3eIE+0qsEyVAS171kufHWwMuBbgoYN131OpH99vnS/twojuGaesMhIzsnhDhGRYX3jrhKl6WUH1kf0QhfUN/BJHWHwVhAHp5tKKyUwTnwBRDjZXCRn6I80wcGJyKbBNVDiGozRPnMDzYiqlvovRxdK692/hhRQ=
+  #SAUCE_USERNAME
+  - secure: OeUUdsdjH45xdaL61oyAxSoWxmbl7i5O5VaiSuIYfR/2amRks5eNuHt5+FxxqLr+cXHY4FeHtvA5KzCLEyQIisjuKq16sWaqglMlGLrRvkAUzrw7U7uuVrLszkROdOug36bxWhjRtg+WOAEX6m6g7zdk0fGLqMOWtyqzEPcOZ6A=
   #CODECLIMATE_REPO_TOKEN=**************************(smcgregor/privly-applications)
   - secure: CevDxddWV/R2vF66U94Id30vSkQ2I1DBY36bl2VPyY5OsBGhSFWaF0l5j6KIgBZyYrwQF2IT1I/hUPtLbTvHhPgaE5CcV1LHGxueWtaYEXfAfHSVy0ChhhilKdUOOyA7245yad6UHYQIwx7Kz/EKXXA/0hczEcUl/OH6ZxkGcws=
   #CODECLIMATE_REPO_TOKEN=**************************(privly/privly-applications)
